@@ -1,6 +1,6 @@
-# Project Title
+# Tic Tac Toe
 
-[Difficulty] Completed Project From JetBrains Academy Python Developer Track
+[Easy] Completed Project From JetBrains Academy Python Developer Track
 
 [Project Link]()
 
