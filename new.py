@@ -63,13 +63,13 @@ def check():
         return 1
     return 0
 
-print(     '-----')
-print(     '7|8|9')
-print(     '-----')
-print(     '4|5|6')
-print(     '-----')
-print(     '1|2|3')
-print('****************')
+print('-----')
+print('7|8|9')
+print('-----')
+print('4|5|6')
+print('-----')
+print('1|2|3')
+print('*******')
 
 while True:
     print(board['7']+'|'+board['8']+'|'+board['9'])
